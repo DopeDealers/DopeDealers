@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
-<h3 align="center">A passionate backend developer and Computer Scientist and currently looking to further my career</h3>
+<h3 align="center">Old dev, working in new situations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dopedealers&label=Profile%20views&color=0e75b6&style=flat" alt="dopedealers" /> </p>
 
@@ -9,18 +9,13 @@
 
 - 🔭 I’m currently working on [Cyci Org](https://cyci.org) and [Mailcow.js](https://github.com/DopeDealers/Mailcow.js)
 
-- 🌱 I’m currently learning **C, C++, Java, HTML, JS, Unity, EJS, NodeJS, Udemy C++ course**
+- 🌱 Currently understand **C, C++, Java, HTML, JS, Unity, EJS, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://dopedealers.net](https://dopedealers.net)
+- 👨‍💻 All of my projects are available at [git]([https://dopedealers.net](https://github.com/DopeDealers/DopeDealers))
 
 - 📫 How to reach me **admin@cyci.org**
 
 - 📄 Know about my experiences [temp](temp)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javascriptapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javascriptapi" height="30" width="40" /></a>
-<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phil#0004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
