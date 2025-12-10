@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dopedealers" alt="dopedealers" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/javascriptapi" target="blank"><img src="https://img.shields.io/twitter/follow/javascriptapi?logo=twitter&style=for-the-badge" alt="javascriptapi" /></a> </p>
-
 - 🔭 I’m currently working on [Cyci Org](https://cyci.org) and [Mailcow.js](https://github.com/DopeDealers/Mailcow.js)
 
 - 🌱 Currently understand **C, C++, Java, HTML, JS, Unity, EJS, NodeJS**
